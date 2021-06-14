@@ -4,7 +4,7 @@
   - Laravel
   - React.js
   - Foundation
-- currently i'm developing a web application for a clinic that manages patients and their visits and orders.
+- currently i'm developing a web application for a clinic.
 - You can reach me via my gmail.
 <br/>My [Twitter](http://twitter.com/_Hirbod_)
 
