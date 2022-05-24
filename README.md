@@ -1,10 +1,5 @@
 - Hi, I’m Hirbod.
-- I’m develop web applications.
-- I use these frameworks:
-  - Laravel
-  - React.js
-  - Foundation
-- currently i'm developing a web application for a clinic.
+- I’m a back-end developer.
 - You can reach me via my gmail.
 <br/>My [Twitter](http://twitter.com/_Hirbod_)
 
